@@ -1,0 +1,28 @@
+body {
+    background-color: #FE8AAF;
+}
+
+.jumbotron{
+    background-color: #333333;
+    color: #f0ad4e;
+}
+
+.oswald{
+    font-family: 'Oswald', sans-serif;    
+}
+
+.amatic{
+    font-family: 'Amatic SC', cursive;
+}
+
+.cuteInput {
+    /*background-color: rgba(0, 0, 0, 0.5);
+    border: 0px;
+    border-bottom: 1px solid #333333;
+    font-size: 30px;
+    color: #333333; */
+}
+
+a h1{
+    text-decoration: none!important;
+}
